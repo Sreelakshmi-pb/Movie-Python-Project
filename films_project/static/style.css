@@ -1,0 +1,28 @@
+body {
+    background-color: LightBlue;
+}
+.custom-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.custom-form label {
+    font-weight: bold;
+}
+
+.custom-form input[type="text"],
+.custom-form input[type="file"] {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.custom-form button[type="submit"] {
+    width: 100%;
+}
+
+
+
